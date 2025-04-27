@@ -398,7 +398,7 @@ export const projects = [
     id: 5,
     title: "Restaurant Site",
     description:
-      "This project is very close to my heart as it marks the start of my development journey. It was my first-ever project, created entirely on a mobile device without access to a laptop or PC. It taught me that limitations in resources should never be a barrier — there is always a way if you are determined and passionate enough.",
+      "This project is very close to my heart as it marks the start of my development journey. It was my first-ever project, created entirely on a mobile device without access to a laptop or PC. It taught me that limitations should never be a barrier — there is always a way if you are determined and passionate enough.",
     image: Restaurant,
     tags: ["My Most Favourite Site"],
     category: "personal",
